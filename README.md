@@ -34,3 +34,13 @@
 ##
 
 ![Snake animation](https://github.com/Adriano-paim/Adriano-paim/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Adriano-paim/Adriano-paim/blob/output/github-contribution-grid-snake.svg)
+
+  
+  
+  
+  
+  
+  
+  
+  
