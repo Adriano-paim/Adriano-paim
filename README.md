@@ -25,7 +25,7 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Adriano-paim&repo=Adriano-paim&theme=react)](https://github.com/Adriano-paim/Adriano-paim)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Adriano-paim&repo=Adriano-paim&theme=react)](https://github.com/Adriano-paim)
 
 <br><br>
 <b>Estudante de análise e desenvolvimento de Sistemas</b> 🚀
