@@ -20,9 +20,7 @@
 </div>
   <a href="https://www.instagram.com/adriano_paimjr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adriano-paim-dos-santos-junior-12943a1a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Adriano-paim/Adriano-paim/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Adriano-paim&repo=Adriano-paim&theme=react)](https://github.com/Adriano-paim)
@@ -30,11 +28,8 @@
 <br><br>
 <b>Estudante de análise e desenvolvimento de Sistemas</b> 🚀
 
-
 ##
 
-![Snake animation](https://github.com/Adriano-paim/Adriano-paim/blob/output/github-contribution-grid-snake.svg)
-![snake gif](https://github.com/Adriano-paim/Adriano-paim/blob/output/github-contribution-grid-snake.svg)
 
   
   
